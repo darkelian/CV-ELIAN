@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  background-color: #1e1e1e;
+}
+p,
+h3 {
+  color: white;
+  font-family: "Work Sans", sans-serif;
+}
+h2 {
+  color: #feb324;
+  font-family: "Work Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+}
+h1{
+    color: white;
+    font-family: "Work Sans", sans-serif;
+}
