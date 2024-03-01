@@ -12,7 +12,7 @@
 .box {
   width: 30%;
   height: 60vh;
-  display: flex;
+  display: block;
   justify-content: center;
   align-content: center;
   flex-direction: column;
@@ -35,7 +35,7 @@
   display: flex;
   img {
     width: 20%;
-    height: 100px;
+    height: 25%;
     padding: 25px;
   }
 }
@@ -45,13 +45,26 @@
 .info {
   display: flex;
   flex-direction: row;
+  height: 16.66%;
   img {
-    width: 20%;
-    height: 100px;
-    padding: 25px;
+    width: 10%;
+    height: auto;
+    padding: 5px;
   }
 }
 a{
     color: white;
     text-decoration: none;
+    cursor: pointer;
+}
+p{
+  display: flex;
+  align-items: center;
+}
+.box1{
+  img{
+    display: flex;
+    width: auto;
+    height: auto;
+  }
 }
