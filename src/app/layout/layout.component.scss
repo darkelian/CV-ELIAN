@@ -52,19 +52,53 @@
     padding: 5px;
   }
 }
-a{
-    color: white;
-    text-decoration: none;
-    cursor: pointer;
+a {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
 }
-p{
+p {
   display: flex;
   align-items: center;
 }
-.box1{
-  img{
+.box1 {
+  img {
     display: flex;
     width: auto;
     height: auto;
+  }
+}
+.container-hobbits {
+  display: flex;
+  flex-direction: column;
+  h3 {
+    flex-direction: row !important;
+  }
+}
+.hobbit {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: center;
+  img {
+    width: 20%;
+    height: auto;
+  }
+}
+.text-hobbit {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: center;
+}
+.skill {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: center;
+  img {
+    width: 20%;
+    height: auto;
+    padding: 25px;
   }
 }
