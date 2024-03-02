@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="800px"
+   height="800px"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="unity-svgrepo-com.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.02"
+     inkscape:cx="400"
+     inkscape:cy="400"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title1">unity</title>
+  <path
+     d="m 21.428322,21.642278 -3.589077,-6.041611 3.589077,-6.0442786 1.73252,6.0429446 -1.733188,6.041611 z m -7.9984,-0.580155 -4.513354,-4.479194 h 7.17482 l 3.587743,6.042278 -6.249876,-1.56175 z m 0,-10.924246 6.249209,-1.5617501 -3.587077,6.0422781 H 8.915901 Z M 24.8,13.544118 22.611344,5.6 14.441559,7.7292344 13.233196,9.8044545 10.779127,9.7864497 4.8,15.600667 l 5.979794,5.814884 2.452735,-0.01934 1.211698,2.075221 L 22.610676,25.6 24.8,17.659215 23.55696,15.600667 Z"
+     id="path1"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.666856;stroke-opacity:1" />
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#424242;stroke-width:3.36598;stroke-dasharray:none;stroke-opacity:1"
+     id="path4"
+     cx="16"
+     cy="15.999999"
+     rx="14.317012"
+     ry="14.317009" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#feb324;stroke-width:3.36632;stroke-dasharray:none"
+     id="ellipse4"
+     transform="scale(1,-1)"
+     sodipodi:type="arc"
+     sodipodi:cx="16.001257"
+     sodipodi:cy="-16.001528"
+     sodipodi:rx="14.318542"
+     sodipodi:ry="14.318354"
+     sodipodi:start="1.5525678"
+     sodipodi:end="0.23341104"
+     sodipodi:open="true"
+     sodipodi:arc-type="arc"
+     d="M 16.262248,-1.6855529 A 14.318542,14.318354 0 0 1 2.5411036,-11.118468 14.318542,14.318354 0 0 1 7.0222968,-27.154807 14.318542,14.318354 0 0 1 23.645853,-28.108424 14.318542,14.318354 0 0 1 29.931524,-12.68973" />
+</svg>

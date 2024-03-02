@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="800px"
+   height="800px"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="angular-svgrepo-com.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.02"
+     inkscape:cx="400"
+     inkscape:cy="400"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title1">angular</title>
+  <path
+     d="M 21.1832,20.9286 H 19.205 l -1.0662,-2.6262 h -4.5042 l -1.0662,2.6274 H 10.589 L 15.887,9.1872 Z M 15.887,7.2 7.4,10.1856 8.6942,21.2604 15.8876,25.1946 23.0828,21.264 24.3752,10.1868 15.887,7.2006 Z m -1.551,9.4812 h 3.1026 l -1.5522,-3.6798 z"
+     id="path1"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.6" />
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#424242;stroke-width:3.36598;stroke-dasharray:none;stroke-opacity:1"
+     id="path4"
+     cx="16.000349"
+     cy="15.999999"
+     rx="14.317012"
+     ry="14.317009" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#feb324;stroke-width:3.36632;stroke-dasharray:none"
+     id="ellipse4"
+     transform="scale(1,-1)"
+     sodipodi:type="arc"
+     sodipodi:cx="16.001606"
+     sodipodi:cy="-16.001528"
+     sodipodi:rx="14.318542"
+     sodipodi:ry="14.318354"
+     sodipodi:start="1.5525678"
+     sodipodi:end="3.8602053"
+     sodipodi:open="true"
+     sodipodi:arc-type="arc"
+     d="M 16.262597,-1.6855529 A 14.318542,14.318354 0 0 1 3.0177935,-9.9649485 14.318542,14.318354 0 0 1 5.2237562,-25.427887" />
+</svg>
